@@ -1,4 +1,5 @@
 {
+    "name": "mamoot/poeditor-php-sdk",
     "description": "Connect your software to POEditor with this simple API",
     "keywords": [
         "openapitools",
